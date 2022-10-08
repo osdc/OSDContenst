@@ -2,8 +2,9 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
-[module]
-	replacements = "github.com/lxndrblz/anatole -> ../../anatole"
-  [[module.imports]]
-    path = "github.com/lxndrblz/anatole"
-    disable = false
+theme = 'anatole'
+
+[params]
+title = "OSDC"
+description = "Open Source Development Cooking"
+
