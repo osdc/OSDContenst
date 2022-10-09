@@ -5,6 +5,7 @@ title = 'My New Hugo Site'
 theme = 'anatole'
 
 [params]
-title = "OSDC"
+  title = "OSDC"
+  readMore = true
 description = "Open Source Development Cooking"
 

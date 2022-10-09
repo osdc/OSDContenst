@@ -1,10 +1,10 @@
 +++
 title = "Hello There!"
 date = "2022-07-14T10:00:16"
-author = ""
+author = "Akshit"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["", ""]
+tags = ["yoyo", "tags!"]
 keywords = ["", ""]
 description = ""
 showFullContent = false

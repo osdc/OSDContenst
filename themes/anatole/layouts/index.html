@@ -74,33 +74,15 @@
 
       <!--  -->
       <div class="post__footer">
-        <em class="fas fa-calendar-day"></em>
+        <em class="fas fa-user"></em>
         <span class="post__footer-date"
-          >{{ if isset .Site.Params "indexdateformat" }}
-            {{ if .Site.Params.localizedDates }}
-              {{ time.Format .Site.Params.indexDateFormat .Date }}
+          >{{ .Params.author }}
+            
+
+            
 
 
-            {{ else }}
-              {{ .Date.Format .Site.Params.indexDateFormat }}
-
-
-            {{ end }}
-
-
-          {{ else }}
-            {{ if .Site.Params.localizedDates }}
-              {{ time.Format "Mon, Jan 2, 2006" .Date }}
-
-
-            {{ else }}
-              {{ .Date.Format "Mon, Jan 2, 2006" }}
-
-
-            {{ end }}
-
-
-          {{ end }}</span
+        </span
         >
         {{ with .Page.Params.Categories }}
           {{ partial "taxonomy/categories.html" . }}
