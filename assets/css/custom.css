@@ -1,5 +1,5 @@
 .wrapper__sidebar  {
-    width: calc(calc(1 - .8) * 100%);
+    width: calc(calc(1 - .75) * 100%);
 }
 
 @media only screen and (max-width: 960px) {
@@ -9,7 +9,7 @@
   }
 
 .wrapper__main {
-    width: calc(.8 * 100%)
+    width: calc(.75 * 100%)
 }
 
 @media only screen and (max-width: 960px) {
