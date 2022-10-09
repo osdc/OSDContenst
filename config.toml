@@ -8,4 +8,5 @@ theme = 'anatole'
   title = "OSDC"
   readMore = true
 description = "Open Source Development Cooking"
+customCss = ["css/custom.css"]
 
