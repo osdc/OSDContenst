@@ -15,3 +15,14 @@ Number of prizes will be decided on basis of number of participants.
 > Normal college working day, you have infinite budget and infinite resources and the confined space of Cafe (Annapurna, ABB-III). You're given full freedom to renovate it for a day and make something happen. What do you do?
 
 Weave a short story around the prompt in around 100-200 words.
+
+## Metadata format for markdown file
+```md
++++
+title = "Addressing a very much FAQ (singular)"
+date = "2022-07-14T10:37:16"
+author = "Keanu Reeves"
++++
+
+< your content comes here >
+```
