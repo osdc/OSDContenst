@@ -16,13 +16,19 @@ Number of prizes will be decided on basis of number of participants.
 
 Weave a short story around the prompt in around 100-200 words.
 
-## Metadata format for markdown file
+## Format for markdown file
 ```md
 +++
-title = "Addressing a very much FAQ (singular)"
+title = "< your title comes here in double quotes >"
 date = "2022-07-14T10:37:16"
-author = "Keanu Reeves"
+author = "< your name in double quotes >"
 +++
 
 < your content comes here >
 ```
+
+## Contact
+In case of any issues, feel free to reach out to us -  
+* [Discord](https://dsc.gg/jodc)
+* [Telegram](https://t.me/jiitosdc)
+* [Instagram](https://instagram/com/osdcjiit)
