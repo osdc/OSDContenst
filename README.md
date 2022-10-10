@@ -1,6 +1,24 @@
 # OSDContenst
 A content writing contest by OSDC to help kickstart your open source journey through non-code contributions as a part of Hacktoberfest.
 
+## Prompt
+> Normal college working day, you have infinite budget and infinite resources and the confined space of Cafe (Annapurna, ABB-III). You're given full freedom to renovate it for a day and make something happen. What do you do?
+
+Weave a short story around the prompt in around 100-200 words.
+
+
+## Format for markdown file
+```md
++++
+title = "title in double quotes"
+date = "2022-07-14T10:37:16"
+author = "name in double quotes"
+discord = "your discord username and tag in double quotes"
++++
+
+< your content comes here >
+```
+
 ## Prizes
 Number of prizes will be decided on basis of number of participants.
 
@@ -10,22 +28,6 @@ Number of prizes will be decided on basis of number of participants.
 * Creativity
 * Grammar (we're grammar nazis)
 * Use of puns
-
-## Prompt
-> Normal college working day, you have infinite budget and infinite resources and the confined space of Cafe (Annapurna, ABB-III). You're given full freedom to renovate it for a day and make something happen. What do you do?
-
-Weave a short story around the prompt in around 100-200 words.
-
-## Format for markdown file
-```md
-+++
-title = "title in double quotes"
-date = "2022-07-14T10:37:16"
-author = "name in double quotes"
-+++
-
-< your content comes here >
-```
 
 ## Resources
 * [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
