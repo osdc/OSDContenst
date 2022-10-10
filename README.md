@@ -19,13 +19,17 @@ Weave a short story around the prompt in around 100-200 words.
 ## Format for markdown file
 ```md
 +++
-title = "< your title comes here in double quotes >"
+title = "title in double quotes"
 date = "2022-07-14T10:37:16"
-author = "< your name in double quotes >"
+author = "name in double quotes"
 +++
 
 < your content comes here >
 ```
+
+## Resources
+* [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+* [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 
 ## Contact
 In case of any issues, feel free to reach out to us -  
