@@ -1,13 +1,13 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'OSDContenst'
 
 theme = 'anatole'
 
 [params]
-  title = "OSDC"
+  title = "OSDContenst"
   readMore = true
   profilePicture = "images/osdc.png"
-  description = "Open Source Development Cooking"
+  description = "A Content Writing Contest"
   customCss = ["css/custom.css"]
 
