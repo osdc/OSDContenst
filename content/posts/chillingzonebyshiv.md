@@ -1,8 +1,8 @@
 +++
-**title = "Chilling Zone**
-**date="2022-10-16T18:20:09"**
-**author="Shiv Pandey"**
-**discord ="shiv5677#9076**
+title = "Chilling Zone"
+date="2022-10-16T18:20:09"
+author="Shiv Pandey"
+discord ="shiv5677#9076"
 +++
 
 On a normal college working day when everybody is frustated about pending assignmnents and lecturs which were like sharp bouncers gone with speed of 150km\h, then after so much of tortue those aggrieved beings desire a place for some relaxation.
