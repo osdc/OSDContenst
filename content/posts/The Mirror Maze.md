@@ -34,6 +34,10 @@ After hours of toiling, the maze was in place. Our reconstruction was magnificen
 
 
 **The maze was a hit**. Everyone loved it. It was planned in such a way that you could spend hours in it without feeling **claustrophobic**. In addition to solving the  maze, we had also given provisions for people to carry out **several engaging activities** making it a wholesome experiance.
+
+
+
+
  ![mirror maze](https://www.dellaadventure.com/uploads/5718Mirror%20Maze%20(3).jpg)
 
 
