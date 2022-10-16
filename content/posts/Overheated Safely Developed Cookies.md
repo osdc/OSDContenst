@@ -1,10 +1,9 @@
 +++
-<br>
                       #"**Overheated Safely Developed Cookies (OSDC)**"
-Date:"14-10-2022"<br>
-Author Name:"Parth Jasathy(Unique hai ek baar mai mil jayega linkedin pe)"<br>
-Discord:"Parth #3635"<br>
-+++<br>
+Date:"14-10-2022"
+Author Name:"Parth Jasathy(Unique hai ek baar mai mil jayega linkedin pe)"
+Discord:"Parth #3635"
++++
 ---
 
 -Aish karne ke liye bhi cash chahiye. <br>
