@@ -1,8 +1,8 @@
 +++
-Title:"Overheated Safely Developed Cookies (OSDC)"
-Date:"14-10-2022"
-Author Name:"Parth Jasathy(Unique hai ek baar mai mil jayega linkedin pe)"
-Discord:"Parth #3635"
+title="Overheated Safely Developed Cookies (OSDC)"
+date="14-10-2022"
+author="Parth Jasathy(Unique hai ek baar mai mil jayega linkedin pe)"
+discord="Parth#3635"
 +++
 ---
 
