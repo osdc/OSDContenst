@@ -14,7 +14,7 @@ discord = "Fallen Faith#5556"
 * Birthday offer
 ```
 
-### Fix the seating arrangement-
+### 1. Fix the seating arrangement-
 I would buy more tables and chair. Its an arduous task to find a place where you and your friends* can sit together
 [-](content/posts/RBAimgs/fr.jpeg)
 > *=imaginary
