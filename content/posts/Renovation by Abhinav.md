@@ -17,7 +17,7 @@ discord = "Fallen Faith#5556"
 ### 1. Fix the Seating Plan
 I would definitely buy more tables and chair. Its an **arduous** task to find a place where you and your friends* can sit together.
 <p align="center">
-  <img width="256" height="256" src="https://drive.google.com/file/d/1c-PUKomLxpwJDhQE3EWg3KAimXoUfXrh/view?usp=sharing">
+  <img width="256" height="256" src="https://drive.google.com/file/d/1c-PUKomLxpwJDhQE3EWg3KAimXoUfXrh">
 </p>
 
 > *=imaginary
