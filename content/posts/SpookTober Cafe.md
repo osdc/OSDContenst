@@ -1,6 +1,6 @@
 +++
 title = "Spooktober Cafe"
-date = "2022-10-16 00:37:16"
+date = "2022-10-16T00:37:16"
 author = "Vridhii"
 discord = "vkayyy#1748"
 +++
