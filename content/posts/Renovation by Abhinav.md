@@ -1,5 +1,5 @@
 +++
-title = "Entry for OSDContenst"
+title = "Cafe Renovation Ideas"
 date = "2022-10-16T12:01:00"
 author = "Abhinav Singh"
 discord = "Fallen Faith#5556"
