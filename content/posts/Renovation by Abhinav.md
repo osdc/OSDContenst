@@ -1,6 +1,6 @@
 +++
 title = "Entry for OSDContenst"
-date = "2022-10-22T12:01:00"
+date = "2022-10-16T12:01:00"
 author = "Abhinav Singh"
 discord = "Fallen Faith#5556"
 +++
