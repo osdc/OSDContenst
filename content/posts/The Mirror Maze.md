@@ -1,5 +1,5 @@
 +++
-title = "tThe Mirror Maze"
+title = "The Mirror Maze"
 date = "2022-10-16T10:37:16"
 author = "Pratyusha Chaturvedi"
 discord = "PT#7275"
